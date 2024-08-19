@@ -1,0 +1,40 @@
+body, html {
+    margin: 1;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: azure;
+}
+.content {
+    margin: 0 auto;
+    width: 550px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif,;
+    color: darkblue;
+}
+
+table, td, th {
+    border: 15px solid lightblue;
+    color: gray;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th {
+    height: 50px;
+    color: cornflowerblue;
+}
+
+td {
+    text-align: center;
+    padding: 5px;
+    color: darkslategray;
+}
+
+.form {
+    margin-top: 20px;
+}
+
+#content {
+    width: 83%;
+}
